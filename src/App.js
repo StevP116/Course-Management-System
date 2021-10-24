@@ -300,7 +300,7 @@ class App extends React.Component {
         <p> This is where all of the courses that you have added to your cart will be. To remove a course, simply open the course by clicking on it. Inside, you will see the option
             to remove a course from your cart shown by the "Remove Course" button. This will remove the entire course, including all of its sections and subsections. To remove a specific 
             section from your cart, click the "Remove Section" button located inside of the course. If there are other sections of the course in the cart, this will only remove this section. If the section
-            you are removing is the only section for that course in the cart, the entire course will be removed from your cart. Te remove a specific subsection from your cart, once inside 
+            you are removing is the only section for that course in the cart, the entire course will be removed from your cart. To remove a specific subsection from your cart, once inside 
             of the opened course, click on a course's section to open it. Inside of the section resides all of that specific section's subsections. From there, you can click the "Remove Subsection" button
             to remove that specific subsection from the cart. If there are other subsections for that section in the cart, only this subsection will be removed. If the subsection you are removing 
             is the only subsection for this section in the cart, the whole section will be removed. Additionally, if the section that was removed was the only section in the cart for that course, the whole course 
